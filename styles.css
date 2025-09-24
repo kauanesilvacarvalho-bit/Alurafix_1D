@@ -1,5 +1,4 @@
 body {
-body {
     color: white;
     background: black;
     margin: 0px;
@@ -8,14 +7,14 @@ body {
 }
 
 header {
-    border-bottom: solid 2px rgb(21, 30, 203)
+    border-bottom: solid 2px rgb(102, 122, 255)
     padding: 20px;
     font-size: 32px;
-    color: rgb(21, 30, 203);
+    color: rgb(42, 122, 228);
 }
 
-.chamada {
-    background: rgb(21, 30, 203);
+.chamada {rgb(102, 122, 255)
+    background: 
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -57,5 +56,5 @@ p {
 }
 
 .categoria h2 {
-    color: rgb(21, 30, 203);
+    color:rgb(102, 122, 255)
 }
